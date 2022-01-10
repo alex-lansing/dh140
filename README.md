@@ -9,5 +9,5 @@ DH140 explores the topic of digital humanities through various data analysis and
 - user experience research topics and data visualizations
 - data on colors used in my personal art pieces
 <br />
-***Class Objectives***: expand knowledge of Python and its uses in data science and diital humanities
+Class Objective: expand knowledge of Python and its uses in data science and diital humanities
 
