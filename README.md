@@ -10,3 +10,4 @@ DH140 explores the topic of digital humanities through various data analysis and
 - data on colors used in my personal art pieces
 <br />
 ***Class Objectives***: expand knowledge of Python and its uses in data science and diital humanities
+
