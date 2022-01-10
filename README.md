@@ -3,6 +3,7 @@
 <br />
 DH140 explores the topic of digital humanities through various data analysis and visualization methods in Python.
 <br />
+<br />
 ***Project Ideas***:
 - covid statistic analyses
 - user experience research topics and data visualizations
